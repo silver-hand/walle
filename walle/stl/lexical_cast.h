@@ -1,5 +1,5 @@
-#ifndef WALLE_ALGO_LEXICAL_CAST_H_
-#define WALLE_ALGO_LEXICAL_CAST_H_
+#ifndef WALLE_STL_LEXICAL_CAST_H_
+#define WALLE_STL_LEXICAL_CAST_H_
 #include <sstream>
 namespace std { 
 

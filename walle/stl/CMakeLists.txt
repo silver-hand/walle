@@ -1,3 +1,3 @@
 file(GLOB HEADERS "*.h") 
 install(FILES ${HEADERS} DESTINATION include/walle/stl)
-#add_subdirectory(test) 
+add_subdirectory(test) 

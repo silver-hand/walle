@@ -1,5 +1,6 @@
 #ifndef WALLE_SYS_ASYNCLOG_H_
 #define WALLE_SYS_ASYNCLOG_H_
+
 #include <walle/sys/Blockqueue.h>
 #include <walle/sys/Fixbuffer.h>
 #include <walle/sys/CountDown.h>
